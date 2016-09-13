@@ -1,2 +1,2 @@
 # hello-world
-Demo project
+Demo project by Vazgen Ghazaryan
